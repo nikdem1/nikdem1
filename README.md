@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Nikita 👋👨🏼‍💻
+
+[![Telegram](https://img.shields.io/twitter/follow/GeorgeCushen.svg?style=social&label=@GeorgeCushen)](https://t.me/n1kdemm)
+
+[![Nikita](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://nikdem1.github.io)
 
 <!--
-**nikdem1/nikdem1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
