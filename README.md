@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
-* [Telegram](https://t.me/n1kdemm "Telegram")
+[Telegram](https://t.me/n1kdemm "Telegram")
 
 
 [![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
