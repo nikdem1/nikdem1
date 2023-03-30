@@ -1,5 +1,5 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
-## Study in RUDN University
+#### Study in RUDN University
 
 [![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
