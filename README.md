@@ -1,7 +1,5 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
-[![Telegram](https://commons.wikimedia.org/wiki/File:Telegram_logo.svg)](https://t.me/n1kdemm)
-
 [![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
 <!--
