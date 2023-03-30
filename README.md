@@ -2,6 +2,8 @@
 
 [![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
+* [Telegram](https://t.me/n1kdemm "Telegram")
+
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
