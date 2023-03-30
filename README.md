@@ -1,7 +1,5 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
- 
-
 [![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
 <!--
