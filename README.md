@@ -1,8 +1,9 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
-[![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
-
 * [Telegram](https://t.me/n1kdemm "Telegram")
+
+
+[![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
 <!--
 Here are some ideas to get you started:
