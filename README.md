@@ -1,8 +1,8 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
-[![Telegram](https://img.shields.io/twitter/follow/GeorgeCushen.svg?style=social&label=@GeorgeCushen)](https://t.me/n1kdemm)
+[![Telegram](https://commons.wikimedia.org/wiki/File:Telegram_logo.svg)](https://t.me/n1kdemm)
 
-[![Nikita](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://nikdem1.github.io)
+[![Nikita](https://github.com/nikdem1/nikdem1/blob/main/github-header.webp)](https://nikdem1.github.io)
 
 <!--
 Here are some ideas to get you started:
