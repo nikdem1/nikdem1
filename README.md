@@ -1,6 +1,13 @@
 ### Hi there, I'm Nikita 👋👨🏼‍💻
 
 ## About me
+
+### Study 
+
+- Computer and Information Science at the RUDN
+- Course "Python for Beginners course"
+- Course "Start in IT"
+
 ### Skills 
 - Linux/Unix
 - Markdown
