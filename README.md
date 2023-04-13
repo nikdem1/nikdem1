@@ -10,7 +10,7 @@
 ### Study 
 
 - Computer and Information Science at the RUDN
-- Course "Python for Beginners course"
+- Course "Python for Beginners"
 - Course "Start in IT"
 
 ### Skills 
